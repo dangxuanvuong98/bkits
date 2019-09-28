@@ -1,0 +1,5 @@
+*.exe
+*.pyc
+*.h5
+*.weights
+*.ini
